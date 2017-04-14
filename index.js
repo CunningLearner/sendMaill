@@ -76,7 +76,7 @@ if (requestBody.result) {
 }
 	
 
-		if(speed == "send a mail to himanshu "){
+		if(speed == "send a mail to Himanshu "){
 		    var sendmail = require('sendmail')();
  
 sendmail({
